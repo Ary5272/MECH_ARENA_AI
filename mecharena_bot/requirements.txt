@@ -1,0 +1,7 @@
+dxcam
+opencv-python
+numpy
+pydirectinput
+pygetwindow
+pywin32
+tensorboard
